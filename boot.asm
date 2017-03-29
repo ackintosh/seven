@@ -4,6 +4,12 @@
 
 ORG 0x7C00
 
+MOV AH, 0x0E
+MOV AL, 0x41
+MOV BH, 0x00
+MOV BL, 0x07
+INT 0x10
+
 ; BIOS parameter blocks(FAT12)
 ; http://softwaretechnique.jp/OS_Development/bootloader4.html
 
