@@ -1,7 +1,7 @@
 # Seven OS
 
-## assemble boot loader
+## boot
 
 ```
-nasm -o boot.img boot.asm
+$ make run
 ```
