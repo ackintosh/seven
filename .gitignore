@@ -1,2 +1,16 @@
 boot.img
 z_tools
+asmhead.bin
+asmhead.lst
+bootpack.gas
+bootpack.hrb
+bootpack.bim
+bootpack.lst
+bootpack.map
+bootpack.obj
+bootpack.img
+bootpack.sys
+haribote.img
+haribote.sys
+ipl10.bin
+ipl10.lst
